@@ -1,3 +1,29 @@
+# relation-app-practice
+
+## 概要
+COACHTECH 教材 Tutorial 9-5「リレーション ハンズオン演習」で作成した成果物です。
+投稿とコメントの一覧とタグでの検索結果の表示ができるものです。
+
+## 使用技術
+- PHP 8.2
+- Laravel 10.0
+- Eloquent ORM（hasMany / belongsTo / belongsToMany）
+- MySQL
+
+
+## 学んだこと
+- それぞれのデータをリレーションでつなぐ方法
+- リレーションしたデータを必要な形にして渡す方法
+- 
+
+## 動作確認
+http://localhost/posts
+にアクセスして動作確認した。
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
